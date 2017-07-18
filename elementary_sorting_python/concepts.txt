@@ -1,0 +1,2 @@
+Own implementation in python of the basic sorting algorithms
+from the interactivepython.org "Sorting and Searching" chapter.
